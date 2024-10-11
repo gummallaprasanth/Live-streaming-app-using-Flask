@@ -1,6 +1,15 @@
 # live Streaming app using Flask Project 
 
+### Overview
+This is a live streaming application built with Flask, allowing users to broadcast live video streams and watch streams from others in real time. The app leverages WebRTC for real-time communication and streaming.
 
-# Description:
 
-This project demonstrates a live streaming application built using Flask, a popular Python web framework. It leverages technologies like OpenCV, FFmpeg, and a streaming server to provide real-time video transmission.
+### Requirements
+
+Python 3.x
+
+Flask
+
+OpenCV 
+
+Other dependencies (listed in requirements.txt)
